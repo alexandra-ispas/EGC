@@ -1,4 +1,4 @@
-Corespondenta dintre parametru 'elem' din shader si obiectul afisat:
+Corespondenta dintre parametrul 'elem' din shader si obiectul afisat:
 elem = 1 -> podea
 elem = 2 -> perete
 elem = 3 -> dansator
@@ -10,7 +10,7 @@ elem = 8 -> perete dreapta
 elem = 9 -> perete in fata
 elem = 10 -> perete in spate
 
-Corespondenta dintre parametru 'mode' din shader si obiectul afisat:
+Corespondenta dintre parametrul 'mode' din shader si obiectul afisat:
 mode = 0 -> podeaua este luminoasa
 mode = 1 -> apare globul disco
 mode = 2 -> lumina provine doar de la spotlights
